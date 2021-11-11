@@ -1,0 +1,23 @@
+* {
+    background-color: slategray;
+    color: black;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+ul em,h3,h4{
+    color:purple
+}
+ul li{
+    color: aquamarine
+}
+
+ol strong,h3{
+    color:purple
+}
+ol li{
+    color: aquamarine;
+}

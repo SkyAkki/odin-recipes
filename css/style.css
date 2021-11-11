@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+    color: rgb(1, 75, 100);
+    background-color: slategrey;
+
+}
+h1 {
+    color:rgb(90, 214, 214);
+    background-color: teal;
+    text-align: center;
+}
+p {
+    color:black;
+    font-weight: bold;
+}
+p,ol{
+    text-align: center;
+}
