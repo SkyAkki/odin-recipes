@@ -1,4 +1,4 @@
-odin-recipes is my first trial at not only in web development but also in Version history.
+odin-recipes is my first trial at not only in web development but also in Version Control.
 
 With my prior experience in HTML during middle school, I was able to quickly pick up the HTML concepts and hence this section was not something unfamiliar for me.
 
